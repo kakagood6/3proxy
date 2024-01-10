@@ -5,7 +5,7 @@
 ## 下载项目
 
 ```
-git clone https://github.com/my6889/3proxy.git
+git clone https://github.com/kakagood6/3proxy.git
 ```
 
 ## 运行服务
